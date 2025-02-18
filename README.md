@@ -2,7 +2,7 @@
 
 I'm a **Java** and **Python** developer. 🚀  
 
-## 📫 Contact me:  
+## 📫 Connect with me:  
 - Discord: rarchik  
 
 <!--
