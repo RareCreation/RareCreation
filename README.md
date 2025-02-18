@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm a rarchik.
+
+I'm a **Java** and **Python** developer. 🚀  
+
+## 📫 Contact me:  
+- Discord: rarchik  
 
 <!--
 **RarchikCreation/RarchikCreation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
