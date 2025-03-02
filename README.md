@@ -3,8 +3,7 @@
 I'm a **Java** and **Python** developer. 🚀  
 
 ## 📫 Connect with me:  
-- ![Discord](https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg)
- rarchik  
+- Discord: rarchik  
 
 <!--
 **RarchikCreation/RarchikCreation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
