@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm rarchik.</h1>
+<h1 align="center">👋 Hi, I'm RARE</h1>
 
 I'm a developer from Ukraine. 🚀
 
