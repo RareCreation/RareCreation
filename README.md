@@ -4,7 +4,7 @@ I'm a developer from Ukraine. 🚀
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/rarchik-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rare.creation-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
 </p>
 
 
