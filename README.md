@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm RARE</h1>
 
-I'm a developer from Ukraine. 🚀
-
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/rare.creation-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
